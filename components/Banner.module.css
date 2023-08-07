@@ -1,0 +1,48 @@
+.banner {
+   width: 90vw;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   background-color: white;
+}
+
+.bannerWrapper {
+  width: 100vw;
+  background-color: white;
+}
+
+.bannerLogo{
+   height: 5em;
+   margin: 5px;   
+}
+
+.bannerTitle {
+
+}
+
+.bannerNav {
+
+}
+
+.bannerCol {
+   display: flex;
+   justify-content: center;
+   width: 30vw;
+}
+
+.bannerCol h1 {
+   display: flex;
+   justify-content: start;
+   width: 30vw;
+}
+
+.bannerCol div.bannerNav {
+   display: flex;
+   justify-content: end;
+   width: 30vw;
+}
+
+.bannerNavIcon {
+   font-size: 3rem;
+}
